@@ -1,2 +1,1 @@
-# sql-for-data-engineering-course
-sql-for-data-engineering-course
+This project aims to perform analysis on iPhone ecommerce data using Python and SQL.
